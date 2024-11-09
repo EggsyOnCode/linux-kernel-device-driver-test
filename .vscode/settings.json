@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.default.defines": [ "__KERNEL__", "MODULE" ],
+    "C_Cpp.default.includePath": [
+        "/usr/include/"
+    ],
+    "files.associations": {
+        "*.ejs": "html",
+        "proc_fs.h": "c"
+    }
+}

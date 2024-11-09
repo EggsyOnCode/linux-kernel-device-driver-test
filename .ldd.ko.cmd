@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/kernel-code/ldd.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/kernel-code/ldd.ko /home/ubuntu/kernel-code/ldd.o /home/ubuntu/kernel-code/ldd.mod.o
